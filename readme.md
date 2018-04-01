@@ -1,0 +1,18 @@
+#项目结构
+```
+|src
+    |mian--程序目录
+        |java
+            |com--主程序
+                |demo
+                    |com--公用类
+                    |controller--登陆和图片接受接口
+                    |student--学生接口
+                    |teacher--教师接口
+                    |test--试卷接口
+                    |DemoApplication--程序主入口
+        |resource
+            |applicattion.properties--spring配置文件
+    |test--测试路径
+|pom.xml--配置文件
+```
